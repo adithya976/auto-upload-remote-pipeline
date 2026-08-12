@@ -1,0 +1,7 @@
+.env
+envi/
+__pycache__
+browser_profile
+token.json
+client_secret_400191151873-pg51gi9ni25l6ejsf0leb71k4se7enne.apps.googleusercontent.com.json
+Core/__pycache__
